@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs
+/Ares-5.41/obj
+/Ares-5.41/bin
